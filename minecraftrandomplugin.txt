@@ -1,0 +1,19 @@
+command /hi:
+	trigger:
+		send "Hello" to player
+	 
+	 
+command /E:
+	trigger:
+		send "E" to player
+		
+ 
+
+command /Youtube:
+	trigger:
+		send "subscribe to (your channle here) on yt" to player
+		
+		
+		
+
+	
